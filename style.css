@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+	background-image: linear-gradient(to right top, #f391d8, #dc78e9, #96ceed, #5ff9d0 );
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
